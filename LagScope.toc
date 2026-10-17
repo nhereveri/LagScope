@@ -1,0 +1,9 @@
+## Interface: 120105
+## Title: LagScope
+## Notes: Tells you whether lag is your addons, your connection or the server: per-addon CPU, frame hitches, addon traffic and world vs home latency. /lagscope
+## Author: Kaizoka
+## Version: 1.2.0
+## IconTexture: Interface\Icons\INV_Misc_PocketWatch_01
+## SavedVariables: LagScopeDB
+
+LagScope.lua
